@@ -1,0 +1,9 @@
+#find amstrong number
+
+def check_amstrong_number(n):
+    #find so chu so 
+    m = n/10
+    sum = 0
+    for(int i = 0; i < m; i++){
+        
+    }
